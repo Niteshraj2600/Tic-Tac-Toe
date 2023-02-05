@@ -1,0 +1,17 @@
+.tile {
+  display: flex;
+  justify-content: center;
+  margin: 25px;
+  color: black;
+  align-items: center;
+  background-color: rgb(119, 119, 153);
+  padding: 10px;
+  border-radius: 5px;
+  height: 50px;
+  width: 50px;
+}
+h1 {
+  color: blue;
+  font-size: xx-large;
+  font-style: initial;
+}
